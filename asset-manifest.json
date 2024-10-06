@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Passport/static/css/main.47f5e133.css",
+    "main.css": "/Passport/static/css/main.14343a20.css",
     "main.js": "/Passport/static/js/main.ca7253e5.js",
     "static/media/logo-moi.png": "/Passport/static/media/logo-moi.e0144bb8aeaa55bad461.png",
     "static/media/Eservice.png": "/Passport/static/media/Eservice.b18724c140d72feb8490.png",
@@ -9,11 +9,11 @@
     "static/media/bg-pattern.png": "/Passport/static/media/bg-pattern.dc85302355d6ae7b7390.png",
     "static/media/kd.png": "/Passport/static/media/kd.9ef236d77b061f67b1c9.png",
     "index.html": "/Passport/index.html",
-    "main.47f5e133.css.map": "/Passport/static/css/main.47f5e133.css.map",
+    "main.14343a20.css.map": "/Passport/static/css/main.14343a20.css.map",
     "main.ca7253e5.js.map": "/Passport/static/js/main.ca7253e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.47f5e133.css",
+    "static/css/main.14343a20.css",
     "static/js/main.ca7253e5.js"
   ]
 }
